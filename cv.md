@@ -1,1 +1,12 @@
+# Баранок Владимир
+
+## Контакты
+- Email: vladimirbaranok0099gmail.com
+- GitHub: (https://github.com/vova009-b)
+
+## Образование
+- ВГУ им. П.М. Машерова (2024-наст. время)
+
+## Навыки
+- c++, git
 
