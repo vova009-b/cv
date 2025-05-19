@@ -1,1 +1,1 @@
-https://vova009-b.github.io/cv/
+https://vova009-b.github.io/cv/cv
